@@ -1,0 +1,15 @@
+current directory: /Users/numatanumata330/tweet_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/Users/numatanumata330/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20191231-30984-124d6bc.rb extconf.rb
+creating Makefile
+
+current directory: /Users/numatanumata330/tweet_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/numatanumata330/tweet_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/numatanumata330/tweet_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20191231-30984-1cw94jn/skiptrace/internal

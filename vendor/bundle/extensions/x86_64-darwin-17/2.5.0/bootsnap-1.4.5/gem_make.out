@@ -1,0 +1,15 @@
+current directory: /Users/numatanumata330/tweet_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+/Users/numatanumata330/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20191231-30984-crn9gz.rb extconf.rb
+creating Makefile
+
+current directory: /Users/numatanumata330/tweet_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/numatanumata330/tweet_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/numatanumata330/tweet_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20191231-30984-l8aahz/bootsnap

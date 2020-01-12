@@ -1,0 +1,19 @@
+current directory: /Users/numatanumata330/tweet_app/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+/Users/numatanumata330/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20191231-30984-1ydlrgm.rb extconf.rb
+creating Makefile
+
+current directory: /Users/numatanumata330/tweet_app/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/numatanumata330/tweet_app/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/numatanumata330/tweet_app/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20191231-30984-157lwo2/byebug
